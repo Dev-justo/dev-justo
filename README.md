@@ -11,7 +11,7 @@ Atualmente, estou estudando:
 - HTML;
 - CSS;
 - Bootstrap.
-- 
+
 ## 💬 Estou aqui para 
 Estou aberto a:
 - colaborações;
