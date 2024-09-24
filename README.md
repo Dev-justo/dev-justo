@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sobre mim:
+## Olá, eu sou João Pedro 👋
 
-<!--
-**Dev-justo/dev-justo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou estudante de programação, </br>
+sempre em busca de oportunidades e maior conhecimento.😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🍃 Atualmente Estudando:
+Atualmente, estou estudando:
+- HTML;
+- CSS;
+- Bootstrap.
+- 
+## 💬 Estou aqui para 
+Estou aberto a:
+- colaborações;
+- oportunidades de trabalho;
+- compartilhar um pouco do meu progresso.
+
+## 📫 Como me encontrar: 
+- ...
