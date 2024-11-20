@@ -8,9 +8,17 @@ sempre em busca de oportunidades e maior conhecimento.😁
 
 ## 🍃 Atualmente Estudando:
 Atualmente, estou estudando:
+- PHP;
+- MySQL
+
+## 💡 Possuo conhecimento em:
+Possuo conhecimento em:
 - HTML;
 - CSS;
-- Bootstrap.
+- Javascript;
+- - ## FRAMEWORKS:
+  - JQuery;
+  - Bootstrap;
 
 ## 💬 Estou aqui para 
 Estou aberto a:
